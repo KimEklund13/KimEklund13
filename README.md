@@ -32,6 +32,8 @@ My name is Kim Eklund and I'm a QA engineer. I was born and raised in Southern C
 ![](https://img.shields.io/badge/Tool-Wappalyzer-informational?style=flat&logo=wappalyzer&logoColor=white&color=7c2bff)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=7c2bff)
 ![](https://img.shields.io/badge/Tool-Charles%20Proxy-informational?style=flat&logo=cp&logoColor=white&color=7c2bff)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=7c2bff)
+![](https://img.shields.io/badge/Tool-TestRail-informational?style=flat&logo=tr&logoColor=white&color=7c2bff)
 
 #### CI
 ![](https://img.shields.io/badge/Tool-GitHub%20Actions-informational?style=flat&logo=github&logoColor=white&color=7c2bff)

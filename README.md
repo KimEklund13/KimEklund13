@@ -57,7 +57,7 @@ My name is Kim Eklund and I'm a QA engineer. I was born and raised in Southern C
 
 <!-- icons without padding -->
 
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: images/linkedin.png
 
 
 <!-- links to your social media accounts -->

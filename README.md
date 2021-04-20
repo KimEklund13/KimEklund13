@@ -17,6 +17,8 @@ My name is Kim Eklund and I'm a QA engineer. I was born and raised in Southern C
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=7c2bff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7c2bff)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=7c2bff)
+![](https://img.shields.io/badge/Tool-Android%20Studio-informational?style=flat&logo=android%20studio&logoColor=white&color=7c2bff)
+![](https://img.shields.io/badge/Tool-XCode-informational?style=flat&logo=xcode&logoColor=white&color=7c2bff)
 ![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=7c2bff)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=7c2bff)
 
@@ -29,6 +31,7 @@ My name is Kim Eklund and I'm a QA engineer. I was born and raised in Southern C
 ![](https://img.shields.io/badge/Tool-Appium-informational?style=flat&logo=appium&logoColor=white&color=7c2bff)
 ![](https://img.shields.io/badge/Tool-Wappalyzer-informational?style=flat&logo=wappalyzer&logoColor=white&color=7c2bff)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=7c2bff)
+![](https://img.shields.io/badge/Tool-Charles%20Proxy-informational?style=flat&logo=cp&logoColor=white&color=7c2bff)
 
 #### CI
 ![](https://img.shields.io/badge/Tool-GitHub%20Actions-informational?style=flat&logo=github&logoColor=white&color=7c2bff)

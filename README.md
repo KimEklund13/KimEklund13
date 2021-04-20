@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/header.gif" alt="Kim Eklund's Header"></a>
+  <img src="images/header.gif" alt="Kim Eklund's Header"></a></div>
 
 # Howdy, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 

@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/header.gif" alt="Kim Eklund's Header"></a>
+
 👋 Hi, I’m Kim!
 
 I’m interested in:

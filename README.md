@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/header.gif" alt="Kim Eklund's Header"></a></div>
 
-# Howdy, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Kim Eklund and I'm a QA engineer. I was born and raised in Southern California but have made Austin, TX my new home. I'm currently working at Cubic on the Umo app team. You can find me on [![LinkedIn][1.2]][2]
 
